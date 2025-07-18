@@ -1,7 +1,3 @@
-<img align="right" height="170" src="https://media1.tenor.com/m/3q-8BJ7wO4MAAAAd/purple-pixel-purple.gif"  />
-
-###
-
 <h5 align="center">This is a beautifully animated login page with a midnight purple nature theme — complete with glowing text, floating effects, and a starry animated background, all made with pure HTML, CSS, and JavaScript.</h5>
 
 ###
@@ -28,5 +24,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="200" src="https://media1.tenor.com/m/3q-8BJ7wO4MAAAAd/purple-pixel-purple.gif"  />
 
 ###
