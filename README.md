@@ -1,8 +1,8 @@
-<img align="right" height="200" src="https://media1.tenor.com/m/3q-8BJ7wO4MAAAAd/purple-pixel-purple.gif"  />
+<img align="right" height="170" src="https://media1.tenor.com/m/3q-8BJ7wO4MAAAAd/purple-pixel-purple.gif"  />
 
 ###
 
-<h5 align="left">This is a beautifully animated login page with a midnight purple nature theme — complete with glowing text, floating effects, and a starry animated background, all made with pure HTML, CSS, and JavaScript.</h5>
+<h5 align="center">This is a beautifully animated login page with a midnight purple nature theme — complete with glowing text, floating effects, and a starry animated background, all made with pure HTML, CSS, and JavaScript.</h5>
 
 ###
 
